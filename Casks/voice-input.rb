@@ -1,6 +1,6 @@
 cask "voice-input" do
-  version "0.1.0"
-  sha256 "91b757c1b16dbab52b5799ecc0f4777169cd6d3aca969fe23e756b2a64068906"
+  version "0.1.1"
+  sha256 "56922e8fe214675f6b356de9705bdf5b64b087a011fb362ea8fd3dde9b8fb45b"
 
   url "https://github.com/haha1903/voice-input-dist/releases/download/v#{version}/VoiceInput-#{version}.zip"
   name "VoiceInput"
