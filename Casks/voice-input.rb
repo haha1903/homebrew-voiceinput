@@ -4,7 +4,7 @@ cask "voice-input" do
 
   url "https://github.com/haha1903/voice-input-dist/releases/download/v#{version}/VoiceInput-#{version}.zip"
   name "VoiceInput"
-  desc "Offline voice input for macOS — press a hotkey, speak, transcribe locally via WhisperKit"
+  desc "Offline voice input — hotkey, speak, transcribe locally via WhisperKit"
   homepage "https://github.com/haha1903/voice-input-dist"
 
   livecheck do
