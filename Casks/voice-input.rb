@@ -2,10 +2,10 @@ cask "voice-input" do
   version "0.1.7"
   sha256 "cec75ffb152e95f27d1d49f697ca3e408a1df7e9655b799f5f0ed84a832117dc"
 
-  url "https://github.com/haha1903/voice-input-dist/releases/download/v#{version}/VoiceInput-#{version}.zip"
+  url "https://github.com/haha1903/voice-input/releases/download/v#{version}/VoiceInput-#{version}.zip"
   name "VoiceInput"
   desc "Offline voice input — hotkey, speak, transcribe locally via WhisperKit"
-  homepage "https://github.com/haha1903/voice-input-dist"
+  homepage "https://github.com/haha1903/voice-input"
 
   livecheck do
     url :url
