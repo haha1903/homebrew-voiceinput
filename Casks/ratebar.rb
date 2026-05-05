@@ -1,6 +1,6 @@
 cask "ratebar" do
-  version "0.1.1"
-  sha256 "eb9a013266377700a1d637c5ac100b37ad02d38cdcac4aec93ce1d45c86a9979"
+  version "0.1.2"
+  sha256 "af3d556839c69ce2d04ea6e78690eedf9c85e3d570446f7ec97feee46bae0625"
 
   url "https://github.com/haha1903/RateBar/releases/download/v#{version}/RateBar-#{version}.zip"
   name "RateBar"
